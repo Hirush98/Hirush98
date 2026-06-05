@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
 </p>
@@ -159,25 +159,6 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hirush98&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hirush98&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirush98&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hirush98&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
@@ -189,11 +170,6 @@ src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cd
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Hirush98/Hirush98/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
